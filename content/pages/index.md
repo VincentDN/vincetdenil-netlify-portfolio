@@ -41,7 +41,7 @@ sections:
           - pr-0
         alignItems: center
         justifyContent: center
-        flexDirection: col-reverse
+        flexDirection: row-reverse
         borderRadius: large
         borderColor: border-primary
       title:
