@@ -11,16 +11,7 @@ sections:
       expanding a community-built universe into comic books, animations, live
       action film, and games. I also consult and assist business clients in
       developing their own IP’s and brands. What can we make together?
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/VincentPressPhoto.jpg
