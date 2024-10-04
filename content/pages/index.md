@@ -36,7 +36,7 @@ sections:
         width: narrow
         padding:
           - pt-0
-          - pb-3
+          - pb-0
           - pl-0
           - pr-0
         alignItems: center
