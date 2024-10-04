@@ -28,7 +28,7 @@ sections:
       caption: Vincent at the factory
       elementId: ''
     colors: colors-c
-    backgroundSize: inset
+    backgroundSize: full
     elementId: ''
     styles:
       self:
