@@ -53,7 +53,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: CtaSection
-    title: Let's do this
+    title: ''
     text: ''
     actions:
       - type: Button
