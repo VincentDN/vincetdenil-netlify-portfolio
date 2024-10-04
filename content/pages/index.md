@@ -4,9 +4,7 @@ title: Vincent De Nil - Art Director / Producer
 colors: colors-a
 sections:
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: ''
     subtitle: >-
       I am an art director and producer working in Stockholm. Founder of Kaiser
       Cat Cinema and Flagmaker & Print, two crowdfunded companies dedicated to
