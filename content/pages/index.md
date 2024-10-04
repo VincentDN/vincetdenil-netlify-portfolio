@@ -8,9 +8,11 @@ sections:
       I'm a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am an art director and producer working in Stockholm. Founder of Kaiser
+      Cat Cinema and Flagmaker&Print, two crowdfunded companies dedicated to
+      expanding a community-built universe into comic books, animations, live
+      action film, and games. I also consult and assist business clients in
+      developing their own IP’s and brands. What can we make together?
     actions:
       - type: Button
         label: Hire me
