@@ -9,7 +9,7 @@ sections:
       impressive titles and buzz words.
     subtitle: >-
       I am an art director and producer working in Stockholm. Founder of Kaiser
-      Cat Cinema and Flagmaker&Print, two crowdfunded companies dedicated to
+      Cat Cinema and Flagmaker & Print, two crowdfunded companies dedicated to
       expanding a community-built universe into comic books, animations, live
       action film, and games. I also consult and assist business clients in
       developing their own IP’s and brands. What can we make together?
