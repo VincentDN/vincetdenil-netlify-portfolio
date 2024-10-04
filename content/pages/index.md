@@ -75,7 +75,7 @@ sections:
         style: primary
         elementId: ''
     colors: colors-c
-    backgroundSize: full
+    backgroundSize: inset
     elementId: ''
     styles:
       self:
