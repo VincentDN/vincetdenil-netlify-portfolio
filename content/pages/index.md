@@ -31,7 +31,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/VincentPressPhoto.jpg
-      altText: Hero image
+      altText: Vincent De Nil - Press Photo
       caption: Caption of the image
       elementId: ''
     colors: colors-d
