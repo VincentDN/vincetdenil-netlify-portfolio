@@ -57,6 +57,15 @@ sections:
         style: primary
         elementId: ''
       - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
         label: Try it now
         altText: ''
         url: /
