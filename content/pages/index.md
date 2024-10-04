@@ -32,7 +32,7 @@ sections:
       type: ImageBlock
       url: /images/VincentPressPhoto.jpg
       altText: Vincent De Nil - Press Photo
-      caption: Caption of the image
+      caption: Vincent at the factory
       elementId: ''
     colors: colors-d
     backgroundSize: full
