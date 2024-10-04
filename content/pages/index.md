@@ -27,7 +27,7 @@ sections:
       altText: Vincent De Nil - Press Photo
       caption: Vincent at the factory
       elementId: ''
-    colors: colors-d
+    colors: colors-c
     backgroundSize: inset
     elementId: ''
     styles:
