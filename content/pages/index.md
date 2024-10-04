@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Vincent De Nil - Art Director / Producer
-colors: colors-c
+colors: colors-d
 sections:
   - type: HeroSection
     title: >-
