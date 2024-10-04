@@ -2,13 +2,6 @@
 type: PageLayout
 title: Vincent De Nil - Art Director / Producer
 colors: colors-c
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 sections:
   - type: HeroSection
     title: >-
