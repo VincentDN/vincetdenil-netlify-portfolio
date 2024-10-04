@@ -127,7 +127,7 @@ sections:
     subtitle: Projects
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/VDN-Landingpagebackground.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
